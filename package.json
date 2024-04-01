@@ -1,9 +1,9 @@
 {
-  "name": "@nestjs/mongoose",
+  "name": "@nhayhoc/mongoose",
   "version": "10.0.4",
   "description": "Nest - modern, fast, powerful node.js web framework (@mongoose)",
   "author": "Kamil Mysliwiec",
-  "repository": "https://github.com/nestjs/mongoose.git",
+  "repository": "https://github.com/nhayhoc/mongoose.git",
   "license": "MIT",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
